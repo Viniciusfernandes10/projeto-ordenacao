@@ -4,7 +4,7 @@
 **ECT3707 — Tópicos Avançados em Computação IV**
 **Professor:** Sérgio Queiroz de Medeiros
 
-**Autores:** Antonélia da Silva Sabino, Vinícius Fernandes de Abreu
+**Autores:** Antonelia da Silva Sabino, Vinícius Fernandes de Abreu
 
 **Natal, 2026**
 
