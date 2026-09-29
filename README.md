@@ -61,6 +61,9 @@ configuração:
 | Versão do sistema operacional | 12 (bookworm) |
 | Arquitetura | 64 bit |
 
+Exemplo de comando para saber o resultado do bolha com 10.000 de ordenação no terminal:
+sudo perf stat -a -x ";" -o resultado_bolha_20000_iter4.csv -e power/energy-pkg/,duration_time,user_time,system_time python3 Bolha.py < entrada_20000.in
+
 *Tabela 1 — Fonte: autores*
 
 A utilização de um mesmo ambiente computacional para a realização dos testes
